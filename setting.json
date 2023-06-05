@@ -1,0 +1,13 @@
+{
+  "headerBgColor": {
+    "darkMode": "",
+    "lightMode": ""
+  },
+  "loginBgImg": "./artifact-image.svg",
+  "loginTitle": "Registry UQ",
+  "product": {
+    "name": "Registry UQ",
+    "logo": "./harbor-logo.svg",
+    "introduction": "Registry UQ Open Source project to Quindio's University"
+  }
+}
